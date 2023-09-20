@@ -43,3 +43,6 @@ Thus, the lines will have time to detect enemies even if you are about to run ou
 This can be very useful in competitive games like CS GO, in which you need to eliminate the possibility of cheating. This method will help protect your game from a **"WallHack"** type of cheat
 
 Also, this method allows at least a little, but to reduce the pressure on the throughput
+
+<video src='LineInterestManagement
+/Video Presentation/Video Example.mp4' width=180/>
